@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "captcha-canvas": "^3.1.0",
+    "discord-button-captcha": "^1.2.3",
+    "discord.js": "^13.5.1",
+    "discord.js-captcha": "^2.4.0",
+    "luma-db": "^1.1.0",
+    "moment": "^2.29.1"
+  }
+}
