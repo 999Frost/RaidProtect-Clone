@@ -9,3 +9,10 @@ created by Frost.wrld#0999, and a little help of ! "Ƶɨłø'⛉ ♆#0007 & NΞY
 the captcha is a little outdated...
 
 have fun !
+
+
+# Skid List
+
+```
+Zikkar#0001 il prend ma source & la met sur youtube en disant que c'est lui qui l'a fait lol
+```
